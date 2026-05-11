@@ -10,6 +10,7 @@ Identify top-selling coffee products
 Find peak sales periods and customer trends
 Calculate revenue and order statistics
 Generate business insights for decision-making
+
 🛠️ Tools & Technologies
 SQL
 MySQL / PostgreSQL / SQL Server (mention whichever you used)
