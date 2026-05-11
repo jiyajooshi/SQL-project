@@ -5,6 +5,7 @@ This project focuses on analyzing coffee sales data using SQL to extract meaning
 The project demonstrates practical SQL skills including data cleaning, aggregation, joins, subqueries, Common Table Expressions (CTEs), and analytical queries.
 
 🎯 Objectives
+
 Analyze overall coffee sales performance
 Identify top-selling coffee products
 Find peak sales periods and customer trends
